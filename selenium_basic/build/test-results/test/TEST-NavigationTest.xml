@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NavigationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-26T01:57:52" hostname="DESKTOP-JDIK48R" time="37.096">
+  <properties/>
+  <testcase name="navigateToGoogle()" classname="NavigationTest" time="37.096"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
