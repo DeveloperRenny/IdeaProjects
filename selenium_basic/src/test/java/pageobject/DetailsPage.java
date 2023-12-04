@@ -28,6 +28,7 @@ public class DetailsPage {
         ResultModel resultModel = new ResultModel();
         resultModel.setName(nameInDetail.getText());
         resultModel.setPrice(princeInDetails.getText());
+        photographer.takePhoto();
         return resultModel;
     }
 
