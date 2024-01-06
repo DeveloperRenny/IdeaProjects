@@ -2,6 +2,9 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import pageobject.*;
 
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.openqa.selenium.By.xpath;
+
 public class NavigationTest extends BaseWebTest {
 
 
@@ -19,7 +22,7 @@ public class NavigationTest extends BaseWebTest {
         Thread.sleep(30000);
 
     }
-    /*
+
     @Test
     public void navigateToColombia() throws InterruptedException {
 
@@ -35,7 +38,7 @@ public class NavigationTest extends BaseWebTest {
 
 
     }
-
+   /*
     @Test
 
     public void workWithSelects() throws InterruptedException {
